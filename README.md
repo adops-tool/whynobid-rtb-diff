@@ -1,8 +1,13 @@
 # whynobid-rtb-diff
 
 > Forensic OpenRTB diagnostics toolkit that flattens, tabulates, and ranks bid-request fields to instantly pinpoint why one cohort bids and another returns 204 / no-bid.
-
-Act as a Senior Software Engineer. I need you to deeply analyze a GitHub repository (I will provide the link or code) and identify the most valuable, clever, or reusable piece of code inside it. This could be a core algorithm, a helpful utility function, an automation script, or an optimized process. Based on your analysis, extract this code and format it perfectly for a GitHub Gist publication. Please provide the output strictly adhering to the following structure: Gist Description: [Write a clear, concise, and professional description of what the extracted code does. Include exactly 1 relevant emoji character that fits the context of the script]. Filename: [Provide the appropriate filename, including the correct file extension]. Code: [Insert the extracted and refactored code here. Ensure the code is as detailed as possible, properly indented, and includes clean, professional comments explaining the core logic.]
+Act as a Senior Software Engineer. I need you to deeply analyze a GitHub repository (I will provide the link or code) and identify the most valuable, clever, or reusable piece of code inside it. This could be a core algorithm, a helpful utility function, an automation script, or an optimized process. Based on your analysis, extract this code and format it perfectly for a GitHub Gist publication. Please provide the output strictly adhering to the following structure:
+>
+> Gist Description: [Write a clear, concise, and professional description of what the extracted code does. Include exactly 1 relevant emoji character that fits the context of the script].
+>
+> Filename: [Provide the appropriate filename, including the correct file extension].
+>
+> Code: [Insert the extracted and refactored code here. Ensure the code is as detailed as possible, properly indented, and includes clean, professional comments explaining the core logic.]
 
 [![Gist](https://img.shields.io/badge/gist.github-version_of_this_repository-DCDCDC?style=for-the-badge&logo=github)](https://gist.github.com/OstinUA/738e2ca3475be0373b51b17aa374b0b2)
 
